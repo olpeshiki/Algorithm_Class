@@ -1,6 +1,6 @@
 # Analysis and Development of Algorithms
 <hr>
-This is one of the classes at Big Data and Machine Learning Master's Program at ITMO University. The brief description of each tast is provided in the table below:
+This is one of the classes at Big Data and Machine Learning Master's Program at ITMO University. The brief description of each task is provided in the table below:
 
 | Task | The goal | Libraries |
 | ----------- | ----------- | ----------- |
